@@ -218,11 +218,11 @@
 			<footer>
 				<section class="ft-main">
 					<div class="ft-main-item" id="logo">
-						<img
+						<!-- <img
 							src="../resources/LOGO_TRACE_BLACK.svg"
 							alt="Logo OSHK"
 							width="100"
-							height="auto" />
+							height="auto" /> -->
 					</div>
 
 					<div class="ft-main-item">
